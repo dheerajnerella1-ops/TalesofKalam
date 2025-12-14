@@ -1,0 +1,16 @@
+title: "Your Name — Calligraphy & Art"
+name: "Your Name — Calligraphy & Art"
+description: "Calligraphy commissions, fine art, and fashion illustrations."
+url: ""
+baseurl: ""
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+formspree_endpoint: "https://formspree.io/f/your-endpoint"
